@@ -17,10 +17,10 @@
 ---
 
 #### 笔记
-###### **1. AVISO_Div_Correct.ipynb**
+###### **[1. AVISO_Div_Correct.ipynb](https://github.com/miniufo/notebooks/blob/master/AVISO_Div_Correct.ipynb)**
 基于卫星观测资料AVISO的地转流散度订正
 
 
-###### **2. xgcm_diff.ipynb**
+###### **[2. xgcm_diff.ipynb](https://github.com/miniufo/notebooks/blob/master/xgcm_diff.ipynb)**
 xgcm包中差分方法分析
 
