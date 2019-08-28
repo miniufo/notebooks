@@ -24,3 +24,7 @@
 ###### **[2. xgcm_diff.ipynb](https://github.com/miniufo/notebooks/blob/master/xgcm_diff.ipynb)**
 xgcm包中差分方法分析
 
+
+###### **[3. Budget in MITgcm Part I.ipynb](https://github.com/miniufo/notebooks/blob/master/Budget%20in%20MITgcm%20Part%20I.ipynb)**
+基于MITgcm的热收支诊断
+
